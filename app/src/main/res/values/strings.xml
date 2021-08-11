@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewPro</string>
+    <string name="defaultTitle">Make It</string>
+    <string name="defaultBio">Just Beautiful Nature</string>
+</resources>
